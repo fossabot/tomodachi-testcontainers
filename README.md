@@ -1,4 +1,6 @@
 # tomodachi-testcontainers
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffilipsnastins%2Ftomodachi-testcontainers.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffilipsnastins%2Ftomodachi-testcontainers?ref=badge_shield)
+
 
 The library provides [Testcontainers](src/tomodachi_testcontainers/containers/),
 [Pytest fixtures](src/tomodachi_testcontainers/pytest/),
@@ -661,3 +663,7 @@ poetry run hooks
 ```bash
 poetry build
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffilipsnastins%2Ftomodachi-testcontainers.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffilipsnastins%2Ftomodachi-testcontainers?ref=badge_large)
